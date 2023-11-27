@@ -14,8 +14,6 @@ The number of hostels are increasing for the accommodation of the students study
 ![Admin](https://github.com/bansaljatin05/Hostel-Management/blob/master/public/assets/admin.png)
 
 
-#### Watch the Video for reference by clicking [here](https://drive.google.com/file/d/11zBc0fQSxPZX0lr9nEDH1M7aGh7w1IYq/view?usp=sharing)
-
 ## Tech/Framework used
 
 - MERN Stack
@@ -70,13 +68,5 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
- 
-
-## Team Members
-
-- [Jatin Bansal](https://github.com/bansaljatin05)
-- [Puneet Bansal](https://github.com/bansalpuneet15)
-- [Aaryan Sharma](https://github.com/Aaryan8751)
-- [Tanveer Sodhi](https://github.com/TanveerSodhi)
 
 
